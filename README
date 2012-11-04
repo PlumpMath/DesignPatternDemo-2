@@ -1,0 +1,16 @@
+Markdown
+========
+
+Version 1.0.0 - Sun 4 Nov 2012
+
+by Lennart Stoop  
+<http://labs.thesedays.com/>
+
+
+Introduction
+------------
+
+DesignPatternDemo is a demo application that was created to demonstrate
+OOP and best practices such as inheritance, interfaces and polymorphism.
+
+The project was created in Visual Studio 2010 and written in C#.NET.
