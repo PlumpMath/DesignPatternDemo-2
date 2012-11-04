@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Program.Extensibility.LorumIpsumStory" Collapsed="true">
+    <Position X="7.25" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Extensibility\LorumIpsumStory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Program.Extensibility.AppConfigMarketFactorySettings" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAICAAAAAAA=</HashCode>
+      <FileName>Extensibility\AppConfigMarketFactorySettings.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Program.Extensibility.AppConfigStorySettings" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="10.25" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAACAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Extensibility\AppConfigStorySettings.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Program.Extensibility.FileEventListener" Collapsed="true">
+    <Position X="8.5" Y="2" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAACAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Extensibility\FileEventListener.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Program.Extensibility.FixedMarketFactory" Collapsed="true">
+    <Position X="10.25" Y="2" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Extensibility\FixedMarketFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Program.Extensibility.MarketDataSql" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12" Y="2" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Extensibility\MarketDataSql.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Program.Extensibility.MarketStoryDecorator" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAABAAAAAAAAAAAAAAABAAgAAAAAAAAAA=</HashCode>
+      <FileName>Extensibility\MarketStoryDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Program.Extensibility.MarketStoryWithExtendedReport" Collapsed="true">
+    <Position X="3" Y="2" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>Extensibility\MarketStoryWithExtendedReport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Program.Extensibility.MarketStoryWithGreetings" Collapsed="true">
+    <Position X="8.5" Y="3" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAABAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>Extensibility\MarketStoryWithGreetings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Program.Extensibility.MarketStoryWithReport" Collapsed="true">
+    <Position X="0.5" Y="2" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>Extensibility\MarketStoryWithReport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Program.Extensibility.Patrols.FakeDataRepositoryPatrols" Collapsed="true">
+    <Position X="12" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Extensibility\Patrols\FakeDataRepositoryPatrols.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Program.Extensibility.Patrols.MarketFactorySettingsPatrols" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Extensibility\Patrols\MarketFactorySettingsPatrols.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Program.Extensibility.Patrols.PoliceOfficer" Collapsed="true">
+    <Position X="10.25" Y="3" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Extensibility\Patrols\PoliceOfficer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Program.Program" Collapsed="true">
+    <Position X="12" Y="3" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

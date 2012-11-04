@@ -1,0 +1,234 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Marketplace.Concepts.ConcreteClasses.ConsoleEventListener" Collapsed="true">
+    <Position X="14.25" Y="2.25" Width="1.75" />
+    <InheritanceLine Type="Marketplace.Concepts.EventHandling.StateEventListener" FixedToPoint="true">
+      <Path>
+        <Point X="15" Y="1.562" />
+        <Point X="15" Y="2.25" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Concepts\ConcreteClasses\ConsoleEventListener.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Marketplace.Concepts.ConcreteClasses.FakeDataRepository" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="13.25" Y="6.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAACCAgAAAACAAAACAAAAAAAIABAAA=</HashCode>
+      <FileName>Concepts\ConcreteClasses\FakeDataRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Marketplace.Concepts.ConcreteClasses.MarketFactorySettings" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="10.5" Y="5.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAICAAAAAAA=</HashCode>
+      <FileName>Concepts\ConcreteClasses\MarketFactorySettings.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Marketplace.Concepts.EventHandling.StateEventArgs" Collapsed="true">
+    <Position X="10" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Concepts\EventHandling\StateEventHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Marketplace.Concepts.EventHandling.StateEventListener" Collapsed="true">
+    <Position X="14.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAAACAAAAAABQAAQAAAA=</HashCode>
+      <FileName>Concepts\EventHandling\StateEventListener.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Marketplace.Concepts.EventHandling.StateEventSubscription" Collapsed="true">
+    <Position X="12" Y="3" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgACAAAAAEAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Concepts\EventHandling\StateEventSubscription.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Marketplace.Concepts.Inheritance.Customer" Collapsed="true">
+    <Position X="6.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAAAAAAAIAAAAAAAAAAAIAAAIAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Concepts\Inheritance\Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Marketplace.Concepts.Inheritance.MarketFactory" Collapsed="true">
+    <Position X="7" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAkAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Concepts\Inheritance\MarketFactory.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Marketplace.Concepts.Inheritance.Person" Collapsed="true">
+    <Position X="5.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAEMAAARQAAAACABAAAAAQACgAAIAAAAAAABAAAAEA=</HashCode>
+      <FileName>Concepts\Inheritance\Person.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Marketplace.Concepts.Inheritance.RandomMarketFactory" Collapsed="true">
+    <Position X="6.75" Y="6.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Concepts\Inheritance\RandomMarketFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Marketplace.Concepts.Inheritance.Salesman" Collapsed="true">
+    <Position X="4.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAQAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAGA=</HashCode>
+      <FileName>Concepts\Inheritance\Salesman.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Marketplace.Concepts.Inheritance.Story" Collapsed="true">
+    <Position X="4.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAARQAhAAQAAAAAAQAABAAgAAAAAAAAAI=</HashCode>
+      <FileName>Concepts\Inheritance\Story.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Marketplace.Concepts.Polymorphism.MarketStory" Collapsed="true">
+    <Position X="4.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACQAAAAAwAQABAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Concepts\Polymorphism\MarketStory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Marketplace.Extensions.IEnumberableExtensions" Collapsed="true">
+    <Position X="21" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAiAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Extensions\IEnumberableExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Marketplace.Model.Address" Collapsed="true">
+    <Position X="0.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAACMAEAAAAAAAAIAAAAAIAAAAABCAAA=</HashCode>
+      <FileName>Model\Address.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Marketplace.Model.City" Collapsed="true">
+    <Position X="2.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAIEAAAAQAAAIAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Model\City.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Marketplace.Model.Country" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAQAAAAAAAAAAAAAQAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Model\Country.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Marketplace.Model.Market" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAYAAIAAABAIACAACAAAAAAAAACAABECAAAA=</HashCode>
+      <FileName>Model\Market.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Marketplace.Model.Stall" Collapsed="true">
+    <Position X="2.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAIAQAAAAACAAAAAAAAAAAAQAAAACAAAA=</HashCode>
+      <FileName>Model\Stall.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Marketplace.Model.StorySettings" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="6.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAACAAgAAAAAEAAAAAAAQAAIAAAAAAAAQAAAA=</HashCode>
+      <FileName>Model\StorySettings.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="Marketplace.Concepts.EventHandling.IStateEventNotifier" Collapsed="true">
+    <Position X="10" Y="1" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Concepts\EventHandling\IStateEventNotifier.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Marketplace.Concepts.EventHandling.IStateEventSubscriber" Collapsed="true">
+    <Position X="12" Y="1" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Concepts\EventHandling\IStateEventSubscriber.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Marketplace.Concepts.Interfaces.IGreeter" Collapsed="true">
+    <Position X="7.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAARAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Concepts\Interfaces\IGreeter.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Marketplace.Concepts.Interfaces.IMarketDataRepository" Collapsed="true">
+    <Position X="11" Y="6.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Concepts\Interfaces\IMarketDataRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Marketplace.Concepts.Interfaces.IMarketFactory" Collapsed="true">
+    <Position X="8.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Concepts\Interfaces\IMarketFactory.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Marketplace.Concepts.Interfaces.IMarketFactorySettings" Collapsed="true">
+    <Position X="18.5" Y="4.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Concepts\Interfaces\IMarketFactorySettings.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Marketplace.Concepts.Interfaces.IStorySettings" Collapsed="true">
+    <Position X="8" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAACAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Concepts\Interfaces\IStorySettings.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Marketplace.Model.Gender" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Model\Gender.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Marketplace.Model.MarketState" Collapsed="true">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Model\MarketState.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Marketplace.Model.StallState" Collapsed="true">
+    <Position X="2.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Model\StallState.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Delegate Name="Marketplace.Concepts.EventHandling.StateEventHandler" Collapsed="true">
+    <Position X="11.75" Y="2" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Concepts\EventHandling\StateEventHandler.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
